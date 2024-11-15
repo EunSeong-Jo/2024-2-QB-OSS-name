@@ -65,6 +65,3 @@ OSS 프로젝트에 기여하는 개발자는 자신의 기여에 대한 저작�
 
 >## _결론_
 OSS 저작권은 소프트웨어의 자유로운 사용과 협업을 보장하면서도, 저작권을 보호하여 개발자와 사용자 모두에게 법적 안전성을 제공합니다. OSS의 발전을 위해서는 다양한 라이선스와 저작권 규정을 이해하고 준수하는 것이 중요합니다.
-
-
-(https://monolith.law/ko/it/definition-caution-open-source-copyright-act)
