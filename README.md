@@ -5,38 +5,40 @@
 ---
 
 ## 🌟 팀 목표
-**WHY GROUP**은 오픈소스 기술과 GitHub 기능에 대한 소개 및 교육을 통해 개발자들의 성장과 협업을 지원하는 것을 목표로 합니다.
+GitHub 기능에 대한 소개와 오픈소스소프트웨어 보고서를 구축하는 것을 목표로 합니다.
 
 ---
 
 ## 👥 팀 멤버
 
-1. **[조은성](https://github.com/username2)**  
-   **역할**: 오픈소스 프로젝트 분석 및 발표  
-   **이메일**: [kim@example.com]
+1. **조은성**  
+   **역할**: 오픈소스 역사 및 깃허브 기능 제작  
+   **이메일**: [ https://github.com/EunSeong-Jo ]
 
-2. **[박주원](https://github.com/username3)**  
-   **역할**: GitHub 활용법 및 워크숍 진행  
-   **이메일**: [park@example.com]
+2. **박주원**  
+   **역할**: 오픈소스 저작권 제작 및 자료조사  
+   **이메일**: [ https://github.com/parkj00won ]
 
-3. **[심유빈](https://github.com/username4)**  
-   **역할**: 문서화 및 커뮤니티 관리  
-   **이메일**: [lee@example.com]
+3. **심유빈**  
+   **역할**: 오픈소스 소개 제작 및 자료조사  
+   **이메일**: [ https://github.com/shimyoubin ]
    
-4. **[김미송](https://github.com/username4)**  
-   **역할**: 문서화 및 커뮤니티 관리  
-   **이메일**: [lee@example.com]
+4. **김미송**  
+   **역할**: 오픈소스 개요 제작 및 자료조사   
+   **이메일**: [ https://github.com/mill-5 ]
 
 ---
 
 ## 📋 프로젝트 소개
-### 프로젝트 이름: **OpenSource Journey**
-**OpenSource Journey**는 초보 개발자들이 오픈소스에 기여하는 방법을 배우고 GitHub의 핵심 기능을 활용하여 협업할 수 있도록 지원하는 프로젝트입니다.
+### 프로젝트 이름: **WhyGroup project**
+**WhyGroup project** 는 오픈소스소프트웨어에 대해 알아보고 Github의 여러 기능들을 사용해보며 초보자들이 오픈소스소프트웨어와 Github에 더욱 친근하게 다가갈 수 있도록 만드는 프로젝트입니다.
 
-#### 주요 내용:
-- 오픈소스 기여 가이드 제공
-- GitHub 워크플로우 교육 자료 제작
-- 실제 프로젝트 기여 실습 환경 제공
+#### 주요 내용
+- OSS 개요
+- OSS 역사
+- OSS 소개
+- OSS 저작권
+- 깃허브 기능 소개
 
 ---
 
@@ -67,18 +69,16 @@
 ## 📂 GitHub 폴더 구조
 
 ```plaintext
-OpenSource-Journey/
-├── docs/                # 프로젝트 문서화 폴더
-│   ├── guide.md         # 오픈소스 기여 가이드
-│   ├── workshop.md      # 워크숍 자료
-│   └── faq.md           # 자주 묻는 질문
-├── src/                 # 샘플 코드 및 예제
-│   ├── examples/        # 예제 코드 폴더
-│   └── templates/       # 템플릿 파일
-├── tests/               # 테스트 코드
-├── .github/             # GitHub 워크플로우 파일
-│   ├── ISSUE_TEMPLATE/  # 이슈 템플릿
-│   ├── PULL_REQUEST_TEMPLATE.md  # PR 템플릿
-│   └── workflows/       # GitHub Actions 워크플로우
-├── README.md            # 리포지토리 소개 파일
-└── CONTRIBUTING.md      # 기여 가이드라인
+QB-OSS-WhyGroup/
+├── Github-Features/
+│   ├── images/                 # 참조 이미지 모음
+│   └── 깃허브 주요 기능 소개.md    # 깃허브 기능 소개자료
+│
+├── OSS-Report/
+│   ├── OSS_개요.md       # 오픈소스소프트웨어 개요 자료
+│   ├── OSS_소개.md     # 오픈소스소프트웨어 소개 자료
+│   ├── OSS_역사.md     # 오픈소스소프트웨어 역사 자료
+│   └── OSS_저작권.md       # 오픈소스소프트웨어 저작권 자료
+│
+├── README.md       # 리포지토리 소개 파일
+└── why-group.png      # 팀 심볼 이미지
